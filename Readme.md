@@ -1,7 +1,7 @@
 # Личный проект «PlayHTML»
 
 * Студент: [Rainbowdash](https://up.htmlacademy.ru/email/1/user/1788729).
-* Наставник: [Twilight 🙂 Sparkle](https://up.htmlacademy.ru/profile/id1564387).
+* Наставник: [Twilight 🙂 😜 Sparkle](https://up.htmlacademy.ru/profile/id1564387).
 
 ---
 
